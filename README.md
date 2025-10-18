@@ -31,8 +31,7 @@ I’m passionate about building innovative solutions, learning new technologies,
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/ernest-mbogo-6a27ab32b/) *(add your link)*  
-- 
+- 💼 [LinkedIn] *((https://www.linkedin.com/in/ernest-mbogo-6a27ab32b/))*  
 - 📧 Email: *ernestmbogo7@gmail.com*  
 
 ---
